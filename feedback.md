@@ -3,6 +3,12 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 4
+
+Rocco, this summary reads more like a plan for your paper, which is completely fine and superhelpful. I tihnk you have laid out an ambitious draft here, but one that seems to illustrate the necessary components of a paper that you can write. I don't have any strong feedback on the structure itself, I think it makes sense. But, what I would very much like to see this week is a draft of some parts of this paper, perhaps, the first two to three sections discussed in the summary you wrote. I want to make sure you aren't biting off too much, but also that you writing on the paper gets some feedback and not just the plan. Great work on the outline here.
+
+* Score: 20/20
+
 ## Assignment 3
 
 Rocco, the paper that you summarized this week looks very interesting, but it left me wondering how it related to your overall paper. I think it's interesting to think about the historical development of the thoery and if that's what you are doing, that's very cool (and appropriate). If you are instead trying to do something else, I suspect that you are going to to need to read an additional paper before trying to synthesize what you have read into a coherent narrative for this week. I would have liked to see how you see this relating to what you have done so far. In any event, what I will be looking for this week is that you are trying to provide a coherent narrative to what you have read and enough detail for it to be clear what you have learned from these papers.

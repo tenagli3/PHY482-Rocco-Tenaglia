@@ -3,6 +3,13 @@
 
 In this file, I will compile your feedback (and grade) for your project homework problems in reverse chronological order. Please do not alter this file and if you do, make sure to add and commit the new version to your repository before turning in the next assignment. Thanks, Danny
 
+## Assignment 6
+
+Rocco, excellent update. I'm glad to see that you have a fairly complete and organized draft here. I tihnk that the only two pieces of feedback that I have going into this week are: (1) You appear to give just a quick overview of group theory without really defining key aspects that are necessary to understand E&M in this respect and (2) there doesn't seem to be much of a conclusion. I think the first was what I was worried about regarding how much you would present and what kind of timeline you had for that. I think to do the group theory formulation justice, you need to have more about what groups are and how that is related to classical E&M. For (2), you will need to think about how much more of (1) you want to present and adjust the introduction accordingly to feed into the conclusion. Great job making this update, but I do think you still have a little more to consider.
+
+* Score: 20/20
+
+
 ## Assignment 5
 
 Rocco, it appears that you have a ways to go towards a complete draft. I expected this given your ambitious plan. I think the idea you have a good one, but I'm concerned that it might be a lot to put together. The paper is due soon, so trying to get something complete to allow me to provide you with more feedback such as, what is the order and nature of what you intend to present? And how much group theory do you plan to present in order to make your point about gauge theory in EM? Maybe for the second question, minimizing the amount there to allow you time to finish a full draft soon.
